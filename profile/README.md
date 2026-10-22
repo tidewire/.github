@@ -1,3 +1,3 @@
-# TideWire
+# tidewire
 
 coming soon…
